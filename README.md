@@ -2,8 +2,6 @@
 
 This social network was generated with MongoDB, Express, Angular2, Node.js.
 
-[image](https://github.com/yummycoding/yummycoding.github.io/blob/master/pic/gator.png)
-
 **Table of Contents**
 
 - [MEAN](#mean)
