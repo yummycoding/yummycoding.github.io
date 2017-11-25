@@ -1,6 +1,4 @@
-# yummycoding.github.io
 # Documentation of weLoveFaceBook project
-# WeLoveFacebook
 
 This social network was generated with MongoDB, Express, Angular2, Node.js.
 
