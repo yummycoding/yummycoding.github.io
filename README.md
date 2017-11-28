@@ -6,9 +6,9 @@ This social network was generated with MongoDB, Express, Angular2, Node.js.
 
 - [MEAN](#mean)
 - [Installation](#installation)
-  - [Node v6.11.2](#node-v6.11.2)
+  - [Node v6.11.2](#Node-v6.11.2)
   - [NPM global dependencies](#npm-global-dependencies)
-  - [MongoDB v3.4.9](#mongodb-v3.4.9)
+  - [MongoDB v3.4.9](#mongoDB-v)
   - [Source code](#source-code)
 - [Usage](#usage)
 - [Issues](#issues)
@@ -86,7 +86,7 @@ npm install
 # Issues
 For any questions, ideas for improvement use [click here](https://github.com/yummycoding/weLoveFaceBook/issues/new).
 
-# Contribute
+# Contributer
 
 # Contact
 
