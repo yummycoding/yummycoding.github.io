@@ -27,7 +27,7 @@ This social network was generated with MongoDB, Express, Angular2, Node.js.
 
 The following instructions are the most common to get the development environment up and running, if you run into issues, check out the [issues](#issues) section and let us know what issues you met.
 
-## Node v6.11.2
+## Node-v6.11.2
 You need Node 6.11.2 in your system. Verify if you already have it with `node -v`. If not or different version, you can use Node Version Manager (nvm) to install it.
 ```bash
 curl https://raw.githubusercontent.com/creationix/nvm/v0.24.1/install.sh | bash
@@ -36,7 +36,7 @@ nvm install 0.12
 nvm use 0.12
 ```
 
-## NPM global dependencies
+## NPM-global-dependencies
 ```bash
 # Nodemon
 npm install -g nodemon
@@ -63,12 +63,12 @@ npm install -g jwt
 npm install -g bcrypt-nodejs
 ```
 
-## MongoDB v3.4.9
+## MongoDB-v3.4.9
 
 - Mac: `brew install mongodb 3.4.9`
 - Ubuntu: `sudo apt-get -y install mongodb=3.4.9`
 
-## Source code
+## Source-code
 You can build the project from scratch following the instructions below.
 ```bash
 git clone https://github.com/yummycoding/weLoveFaceBook
@@ -85,6 +85,8 @@ npm install
  
 # Issues
 For any questions, ideas for improvement use [click here](https://github.com/yummycoding/weLoveFaceBook/issues/new).
+
+# Contribute
 
 # Contact
 
